@@ -1,0 +1,17 @@
+{
+  "name": "sentiments",
+  "version": "1.0.0",
+  "description": "a package for sentiments analysis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "twit": "^2.2.11",
+    "twitter": "^1.7.1",
+    "watson-developer-cloud": "^3.12.0"
+  }
+}
